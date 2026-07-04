@@ -1,0 +1,24 @@
+# IBKR / Interactive Brokers
+
+# IBKR 核心服务
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,iblc.com
+
+# IBKR 其他官方域名
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.com.cn
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.info
+DOMAIN-SUFFIX,ibkrguides.com
+DOMAIN-SUFFIX,ibkrcampus.com
+DOMAIN-SUFFIX,ibkram.com
+
+# Zacks 财经图表 / 分析平台
+DOMAIN-SUFFIX,zacks.com
+
+# Akamai mPulse 性能统计服务
+DOMAIN-SUFFIX,go-mpulse.net
