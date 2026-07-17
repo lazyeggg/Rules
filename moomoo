@@ -1,0 +1,21 @@
+# ===== moomoo / Futu =====
+
+# moomoo 官方
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomoo.com.au
+DOMAIN-SUFFIX,moomoo.sg
+DOMAIN-SUFFIX,moomoo.my
+DOMAIN-SUFFIX,moomoo.ca
+DOMAIN-SUFFIX,moomoo.co.jp
+
+# 富途官方
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futubull.com
+
+# 行情、交易、API
+DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,futunnopen.com
+
+# 静态资源（部分版本会使用）
+DOMAIN-SUFFIX,futuresp.com
