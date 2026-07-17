@@ -1,24 +1,47 @@
-# IBKR / Interactive Brokers
+# =========================
+# Interactive Brokers (IBKR)
+# =========================
 
-# IBKR 核心服务
+# 主域名
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,iblc.com
-
-# IBKR 其他官方域名
-DOMAIN-SUFFIX,interactivebrokers.com.hk
-DOMAIN-SUFFIX,interactivebrokers.co.uk
-DOMAIN-SUFFIX,interactivebrokers.com.au
-DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.cn
 DOMAIN-SUFFIX,interactivebrokers.com.cn
-DOMAIN-SUFFIX,ibkr.com.cn
-DOMAIN-SUFFIX,ibkr.info
+DOMAIN-SUFFIX,interactivebrokers.ca
+DOMAIN-SUFFIX,interactivebrokers.co.uk
+DOMAIN-SUFFIX,interactivebrokers.com.hk
+DOMAIN-SUFFIX,interactivebrokers.com.au
+DOMAIN-SUFFIX,interactivebrokers.ie
+DOMAIN-SUFFIX,interactivebrokers.es
+DOMAIN-SUFFIX,interactivebrokers.lu
+DOMAIN-SUFFIX,interactivebrokers.hu
+DOMAIN-SUFFIX,interactivebrokers.ch
+DOMAIN-SUFFIX,interactivebrokers.co.jp
+DOMAIN-SUFFIX,interactivebrokers.co.in
+
+# Client Portal / API
+DOMAIN-SUFFIX,portal.interactivebrokers.com
+DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
+DOMAIN-SUFFIX,api.ibkr.com
+
+# 官方服务
 DOMAIN-SUFFIX,ibkrguides.com
 DOMAIN-SUFFIX,ibkrcampus.com
 DOMAIN-SUFFIX,ibkram.com
+DOMAIN-SUFFIX,ibkr.info
 
-# Zacks 财经图表 / 分析平台
+# Portfolio Analyst / Interactive Advisors
+DOMAIN-SUFFIX,interactiveadvisors.com
+DOMAIN-SUFFIX,ibkr.interactiveadvisors.com
+
+# Investor Relations
+DOMAIN-SUFFIX,investors.interactivebrokers.com
+
+# IB LLC
+DOMAIN-SUFFIX,ibllc.com
+
+# Zacks
 DOMAIN-SUFFIX,zacks.com
 
-# Akamai mPulse 性能统计服务
+# Akamai mPulse
 DOMAIN-SUFFIX,go-mpulse.net
