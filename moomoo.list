@@ -1,6 +1,6 @@
-# ===== moomoo / Futu =====
+# ===== moomoo / FUTU =====
 
-# moomoo 官方
+# moomoo
 DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomoo.com.au
 DOMAIN-SUFFIX,moomoo.sg
@@ -8,14 +8,53 @@ DOMAIN-SUFFIX,moomoo.my
 DOMAIN-SUFFIX,moomoo.ca
 DOMAIN-SUFFIX,moomoo.co.jp
 
-# 富途官方
+# OpenAPI
+DOMAIN-SUFFIX,openapi.moomoo.com
+
+# 富途
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuholdings.com
 DOMAIN-SUFFIX,futubull.com
 
-# 行情、交易、API
-DOMAIN-SUFFIX,futu5.com
+# API / OpenD
 DOMAIN-SUFFIX,futunnopen.com
+DOMAIN-SUFFIX,openapi.futunn.com
+DOMAIN-SUFFIX,futu5.com
 
-# 静态资源（部分版本会使用）
+# 帮助中心
+DOMAIN-SUFFIX,support.futunn.com
+DOMAIN-SUFFIX,cs.moomoo.com
+DOMAIN-SUFFIX,cs.us.moomoo.com
+
+# 静态资源 / CDN
 DOMAIN-SUFFIX,futuresp.com
+
+# 行情、图片、资源
+DOMAIN-SUFFIX,futurespro.com
+DOMAIN-SUFFIX,futuimg.com
+DOMAIN-SUFFIX,futucdn.com
+
+# 登录、账户
+DOMAIN-SUFFIX,passport.futunn.com
+DOMAIN-SUFFIX,passport.moomoo.com
+
+# 推送
+DOMAIN-SUFFIX,push.futunn.com
+DOMAIN-SUFFIX,push.moomoo.com
+
+# 行情
+DOMAIN-SUFFIX,quote.futunn.com
+DOMAIN-SUFFIX,quote.moomoo.com
+
+# 交易
+DOMAIN-SUFFIX,trade.futunn.com
+DOMAIN-SUFFIX,trade.moomoo.com
+
+# 社区
+DOMAIN-SUFFIX,community.moomoo.com
+DOMAIN-SUFFIX,news.moomoo.com
+DOMAIN-SUFFIX,news.futunn.com
+
+# AI
+DOMAIN-SUFFIX,ai.moomoo.com
