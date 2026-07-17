@@ -2,3 +2,70 @@
 DOMAIN-SUFFIX,trading212.com
 DOMAIN-SUFFIX,trading212invest.com
 DOMAIN-KEYWORD,trading212
+# ==========================================
+# Trading 212
+# ==========================================
+
+# 官方主域
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,www.trading212.com
+
+# Web App
+DOMAIN-SUFFIX,app.trading212.com
+
+# API
+DOMAIN-SUFFIX,api.trading212.com
+
+# 帮助中心
+DOMAIN-SUFFIX,help.trading212.com
+
+# 社区
+DOMAIN-SUFFIX,community.trading212.com
+
+# 下载
+DOMAIN-SUFFIX,download.trading212.com
+
+# 静态资源
+DOMAIN-SUFFIX,static.trading212.com
+DOMAIN-SUFFIX,cdn.trading212.com
+DOMAIN-SUFFIX,assets.trading212.com
+
+# 登录
+DOMAIN-SUFFIX,login.trading212.com
+DOMAIN-SUFFIX,auth.trading212.com
+
+# 通知
+DOMAIN-SUFFIX,push.trading212.com
+DOMAIN-SUFFIX,notifications.trading212.com
+
+# 行情
+DOMAIN-SUFFIX,quotes.trading212.com
+DOMAIN-SUFFIX,market.trading212.com
+
+# 图表
+DOMAIN-SUFFIX,charts.trading212.com
+
+# 交易
+DOMAIN-SUFFIX,trade.trading212.com
+
+# 开发者
+DOMAIN-SUFFIX,developer.trading212.com
+
+# 图片
+DOMAIN-SUFFIX,images.trading212.com
+
+# 博客
+DOMAIN-SUFFIX,blog.trading212.com
+
+# 法律
+DOMAIN-SUFFIX,legal.trading212.com
+
+# Status
+DOMAIN-SUFFIX,status.trading212.com
+
+# CDN（官方）
+DOMAIN-SUFFIX,cloudfront.trading212.com
+
+# 第三方服务
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,go-mpulse.net
