@@ -1,0 +1,48 @@
+# ===================================================
+# Charles Schwab / thinkorswim
+# ===================================================
+
+# ========= 官方主域 =========
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,international.schwab.com
+DOMAIN-SUFFIX,client.schwab.com
+DOMAIN-SUFFIX,welcome.schwab.com
+DOMAIN-SUFFIX,content.schwab.com
+DOMAIN-SUFFIX,developer.schwab.com
+DOMAIN-SUFFIX,api.schwab.com
+DOMAIN-SUFFIX,advisorservices.schwab.com
+DOMAIN-SUFFIX,client.schwab.com
+DOMAIN-SUFFIX,help.schwab.com
+DOMAIN-SUFFIX,download.schwab.com
+DOMAIN-SUFFIX,insights.schwab.com
+DOMAIN-SUFFIX,www.schwab.com
+
+# ========= thinkorswim =========
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,trade.thinkorswim.com
+DOMAIN-SUFFIX,web.thinkorswim.com
+DOMAIN-SUFFIX,mobile.thinkorswim.com
+
+# ========= thinkorswim Desktop =========
+DOMAIN-SUFFIX,desktop.thinkorswim.com
+DOMAIN-SUFFIX,update.thinkorswim.com
+DOMAIN-SUFFIX,download.thinkorswim.com
+
+# ========= Schwab 下载 =========
+DOMAIN-SUFFIX,download.schwab.com
+DOMAIN-SUFFIX,updates.schwab.com
+
+# ========= API =========
+DOMAIN-SUFFIX,developer.schwab.com
+DOMAIN-SUFFIX,api.schwab.com
+
+# ========= CDN =========
+DOMAIN-SUFFIX,schwabcdn.com
+
+# ========= 研究 =========
+DOMAIN-SUFFIX,marketedge.com
+DOMAIN-SUFFIX,morningstar.com
+
+# ========= 性能监测 =========
+DOMAIN-SUFFIX,go-mpulse.net
