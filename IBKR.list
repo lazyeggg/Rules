@@ -2,11 +2,11 @@
 # Interactive Brokers (IBKR)
 # =========================
 
-# 主域名
+# 主域名 / 区域官网
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
+DOMAIN-SUFFIX,ibkr.com.sg
 DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,interactivebrokers.cn
-DOMAIN-SUFFIX,interactivebrokers.com.cn
 DOMAIN-SUFFIX,interactivebrokers.ca
 DOMAIN-SUFFIX,interactivebrokers.co.uk
 DOMAIN-SUFFIX,interactivebrokers.com.hk
@@ -18,30 +18,19 @@ DOMAIN-SUFFIX,interactivebrokers.hu
 DOMAIN-SUFFIX,interactivebrokers.ch
 DOMAIN-SUFFIX,interactivebrokers.co.jp
 DOMAIN-SUFFIX,interactivebrokers.co.in
+DOMAIN-SUFFIX,interactivebrokers.eu
+DOMAIN-SUFFIX,interactivebrokers.com.sg
 
-# Client Portal / API
-DOMAIN-SUFFIX,portal.interactivebrokers.com
-DOMAIN-SUFFIX,ndcdyn.interactivebrokers.com
-DOMAIN-SUFFIX,api.ibkr.com
-
-# 官方服务
+# 官方服务 / 帮助与学院
 DOMAIN-SUFFIX,ibkrguides.com
 DOMAIN-SUFFIX,ibkrcampus.com
 DOMAIN-SUFFIX,ibkram.com
 DOMAIN-SUFFIX,ibkr.info
-
-# Portfolio Analyst / Interactive Advisors
-DOMAIN-SUFFIX,interactiveadvisors.com
-DOMAIN-SUFFIX,ibkr.interactiveadvisors.com
-
-# Investor Relations
-DOMAIN-SUFFIX,investors.interactivebrokers.com
-
-# IB LLC
 DOMAIN-SUFFIX,ibllc.com
 
-# Zacks
-DOMAIN-SUFFIX,zacks.com
-
-# Akamai mPulse
-DOMAIN-SUFFIX,go-mpulse.net
+# PortfolioAnalyst / 客户账户管理 / Interactive Advisors
+DOMAIN-SUFFIX,portfolioanalyst.com
+DOMAIN-SUFFIX,clientam.com
+DOMAIN-SUFFIX,clientam.ch
+DOMAIN-SUFFIX,clientam.com.hk
+DOMAIN-SUFFIX,interactiveadvisors.com
