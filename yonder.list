@@ -1,3 +1,14 @@
-# Yonder
+# NAME: Yonder UK
+# UPDATED: 2026-08-31
+#
+# Core Yonder app, API, web app, CDN, deep links and support
 DOMAIN-SUFFIX,yonder.com
-DOMAIN-KEYWORD,yonder
+DOMAIN-SUFFIX,yondercard.com
+DOMAIN-SUFFIX,joinyonder.com
+DOMAIN-SUFFIX,yonder.cards
+# Eligibility and application flow
+DOMAIN,api.ideal-postcodes.co.uk
+DOMAIN,graphql.datocms.com
+# Open Banking and UK account infrastructure
+DOMAIN-SUFFIX,yapily.com
+DOMAIN,api.griffin.com
