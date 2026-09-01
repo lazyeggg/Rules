@@ -1,0 +1,10 @@
+# NAME: MEXC
+# UPDATED: 2026-09-01
+#
+# MEXC official website, app, REST API and WebSocket services
+DOMAIN-SUFFIX,mexc.com
+# MEXC official regional and alternate access domains
+DOMAIN-SUFFIX,mexc.co
+DOMAIN-SUFFIX,mexc.fm
+# Dedicated MEXC assets hosted under third-party CDN domains
+DOMAIN-KEYWORD,mexc
