@@ -1,10 +1,28 @@
-# NAME: MEXC
-# UPDATED: 2026-09-01
-#
-# MEXC official website, app, REST API and WebSocket services
+# MEXC 官方网站及区域入口
 DOMAIN-SUFFIX,mexc.com
-# MEXC official regional and alternate access domains
 DOMAIN-SUFFIX,mexc.co
 DOMAIN-SUFFIX,mexc.fm
-# Dedicated MEXC assets hosted under third-party CDN domains
-DOMAIN-KEYWORD,mexc
+DOMAIN-SUFFIX,mexc.me
+DOMAIN-SUFFIX,mexc.kr
+# MEXC App 主接口、合约、OTC、预测市场及备用接口
+DOMAIN-SUFFIX,greentreeone.com
+DOMAIN-SUFFIX,365huo.xyz
+DOMAIN-SUFFIX,flytogarden.com
+DOMAIN-SUFFIX,mcaketech.com
+# MEXC App 配置、静态资源、更新、日志及风控服务
+DOMAIN-SUFFIX,mocortech.com
+DOMAIN-SUFFIX,gotoda.co
+DOMAIN-SUFFIX,mexcsensors.com
+DOMAIN-SUFFIX,mxmex.co
+DOMAIN-SUFFIX,mxc-exchange.com
+# MEXC 专用下载、资源和跳转域名
+DOMAIN,mexc.onelink.me
+DOMAIN,s3-app-release.s3.ap-northeast-1.amazonaws.com
+DOMAIN,otcs3.atomuai.com
+DOMAIN,logansite.atomuin.com
+DOMAIN,adv-frontend-log-sg.ap-southeast-1.log.aliyuncs.com
+# 登录验证、KYC 及账户风控
+DOMAIN,api.moss-risk.com
+DOMAIN,riskct.geetest.com
+DOMAIN,api.advance.ai
+DOMAIN-SUFFIX,sumsub.com
