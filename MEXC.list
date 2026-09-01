@@ -15,6 +15,22 @@ DOMAIN-SUFFIX,gotoda.co
 DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,mxmex.co
 DOMAIN-SUFFIX,mxc-exchange.com
+DOMAIN-SUFFIX,atomuai.com
+DOMAIN-SUFFIX,atomuin.com
+DOMAIN-SUFFIX,atomutest.com
+DOMAIN-SUFFIX,vistamx.net
+DOMAIN-SUFFIX,winappnet.com
+# MEXC App 内置美股行情及交易模块
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,pbkrs.com
+DOMAIN-SUFFIX,longbridge.xyz
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longbridgehk.com
+DOMAIN-SUFFIX,longportapp.cn
+DOMAIN-SUFFIX,longportapp.com
+DOMAIN-SUFFIX,whalesit.xyz
 # MEXC 专用下载、资源和跳转域名
 DOMAIN,mexc.onelink.me
 DOMAIN,s3-app-release.s3.ap-northeast-1.amazonaws.com
@@ -26,3 +42,5 @@ DOMAIN,api.moss-risk.com
 DOMAIN,riskct.geetest.com
 DOMAIN,api.advance.ai
 DOMAIN-SUFFIX,sumsub.com
+# 捕获后续新增的 MEXC 命名域名及专用对象存储桶
+DOMAIN-KEYWORD,mexc
