@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,moomoo.sg
 DOMAIN-SUFFIX,moomoo.my
 DOMAIN-SUFFIX,moomoo.ca
 DOMAIN-SUFFIX,moomoo.co.jp
+api.moomoobull.com
 
 # OpenAPI
 DOMAIN-SUFFIX,openapi.moomoo.com
