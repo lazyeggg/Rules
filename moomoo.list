@@ -7,9 +7,10 @@ DOMAIN-SUFFIX,moomoo.sg
 DOMAIN-SUFFIX,moomoo.my
 DOMAIN-SUFFIX,moomoo.ca
 DOMAIN-SUFFIX,moomoo.co.jp
-api.moomoobull.com:443
+
 # OpenAPI
 DOMAIN-SUFFIX,openapi.moomoo.com
+DOMAIN-SUFFIX,cdn.futustatic.com
 
 # 富途
 DOMAIN-SUFFIX,futunn.com
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,futubull.com
 DOMAIN-SUFFIX,futunnopen.com
 DOMAIN-SUFFIX,openapi.futunn.com
 DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,api.moomoobull.com
 
 # 帮助中心
 DOMAIN-SUFFIX,support.futunn.com
