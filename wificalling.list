@@ -1,8 +1,8 @@
  # 德国 SIM 卡 Wi-Fi Calling 配置规则
   # Vodafone DE
-  - DOMAIN-SUFFIX,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org,✈️ WIFI-通话-德国
-  - IP-CIDR,139.7.117.168/30,✈️ WIFI-通话-德国,no-resolve
+  - DOMAIN-SUFFIX,epdg.epc.mnc002.mcc262.pub.3gppnetwork.org
+  - IP-CIDR,139.7.117.168/30,no-resolve
   # O2 DE
-  - DOMAIN-SUFFIX,epdg.epc.mnc003.mcc262.pub.3gppnetwork.org,✈️ WIFI-通话-德国
+  - DOMAIN-SUFFIX,epdg.epc.mnc003.mcc262.pub.3gppnetwork.org
   - IP-CIDR,213.20.0.0/16,no-resolve
   - IP-CIDR,62.52.0.0/16,no-resolve
