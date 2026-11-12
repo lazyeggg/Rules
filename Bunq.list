@@ -1,0 +1,20 @@
+# === bunq 官方自有域名 ===
+DOMAIN-SUFFIX,bunq.com,bunq
+DOMAIN-SUFFIX,bunq.me,bunq
+DOMAIN-SUFFIX,bunq.nl,bunq
+DOMAIN-SUFFIX,bunq.to,bunq
+DOMAIN-SUFFIX,bunq.app,bunq
+DOMAIN-KEYWORD,bunq,bunq
+
+# === bunq 关键第三方依赖（防风控与客服） ===
+DOMAIN-SUFFIX,onfido.com,bunq
+DOMAIN-SUFFIX,iproov.me,bunq
+DOMAIN-SUFFIX,iproov.com,bunq
+DOMAIN-SUFFIX,challenges.cloudflare.com,bunq
+DOMAIN-SUFFIX,intercom.io,bunq
+DOMAIN-SUFFIX,intercomcdn.com,bunq
+
+# === 官方 IP 段与 ASN ===
+IP-CIDR,185.40.108.0/22,bunq,no-resolve
+IP-CIDR6,2a01:4f60::/32,bunq,no-resolve
+IP-ASN,203096,bunq,no-resolve
